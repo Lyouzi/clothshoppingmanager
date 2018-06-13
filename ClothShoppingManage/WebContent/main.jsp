@@ -164,9 +164,9 @@
 					if(node.text=='修改用户'){
 						addPanel(node.text,"updateUser.jsp");
 					}
-					if(node.text=='删除用户'){
+					/* if(node.text=='删除用户'){
 						addPanel(node.text,"deleteUser.jsp");
-					}
+					} */
 					//=========================================
 					if(node.text=='修改资料'){
 						addPanel(node.text,"updateManagerInfo.jsp");
